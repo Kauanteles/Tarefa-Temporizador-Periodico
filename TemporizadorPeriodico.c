@@ -52,7 +52,7 @@ int main() {
     add_repeating_timer_ms(3000, repeating_timer_callback, NULL, &timer);
 
     while(true) {
-        printf("estado atual: %d\n", estado);
+        printf("Estado atual dos leds: %d\n", estado);
         sleep_ms(1000);
     }
 
