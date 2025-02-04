@@ -28,21 +28,21 @@
     {
       "type": "wokwi-resistor",
       "id": "r1",
-      "top": 205.55,
+      "top": 167.15,
       "left": -153.6,
       "attrs": { "value": "1000" }
     },
     {
       "type": "wokwi-resistor",
       "id": "r2",
-      "top": 243.95,
+      "top": 195.95,
       "left": -153.6,
       "attrs": { "value": "1000" }
     },
     {
       "type": "wokwi-resistor",
       "id": "r3",
-      "top": 272.75,
+      "top": 243.95,
       "left": -153.6,
       "attrs": { "value": "1000" }
     }
